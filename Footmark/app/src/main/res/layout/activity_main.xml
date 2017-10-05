@@ -47,7 +47,7 @@
                 android:layout_alignRight="@+id/textView2"
                 android:layout_below="@+id/textView2"
                 android:layout_marginTop="98dp"
-                android:text="あかぎです" />
+                android:text="あかぎかも" />
         </RelativeLayout>
 
     </android.support.design.widget.CoordinatorLayout>
