@@ -8,4 +8,15 @@
     tools:context="com.example.v068ff.footmark.MainActivity2"
     tools:showIn="@layout/app_bar_main2">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="146dp"
+        android:layout_height="37dp"
+        android:text="私だ！！"
+        android:textSize="30sp"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="141dp" />
 </android.support.constraint.ConstraintLayout>
