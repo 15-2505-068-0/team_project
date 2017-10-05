@@ -27,3 +27,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+
+/*
+MainActivity編集完了
+ */
