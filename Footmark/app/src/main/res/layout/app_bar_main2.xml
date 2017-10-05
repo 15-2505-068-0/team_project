@@ -31,4 +31,10 @@
         android:layout_margin="@dimen/fab_margin"
         app:srcCompat="@drawable/ic_menu_share" />
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="368dp"
+        android:layout_height="67dp"
+        android:text="俺様だ！！！！！！！！！！！！" />
+
 </android.support.design.widget.CoordinatorLayout>
